@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFundamentos", "DesafioFundamentos.csproj", "{AC9B2754-8ECF-4DF6-B503-C96187A008B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9B2754-8ECF-4DF6-B503-C96187A008B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9B2754-8ECF-4DF6-B503-C96187A008B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9B2754-8ECF-4DF6-B503-C96187A008B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9B2754-8ECF-4DF6-B503-C96187A008B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F2CA02-4B71-4EF3-B655-1F4BA1E0901D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F2CA02-4B71-4EF3-B655-1F4BA1E0901D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F2CA02-4B71-4EF3-B655-1F4BA1E0901D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F2CA02-4B71-4EF3-B655-1F4BA1E0901D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
