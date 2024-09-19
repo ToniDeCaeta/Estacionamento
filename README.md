@@ -2,7 +2,10 @@
 Construi um sistema para estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) além de listar os veículos.
 
 ## Diagrama de Classe
+
 O digrama da classe será o seguinte:
+
+
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
